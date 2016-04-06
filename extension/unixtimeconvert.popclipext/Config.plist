@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>After</key>
+			<string>show-result</string>
+			<key>Image File</key>
+			<string>icon.png</string>
+			<key>Regular Expression</key>
+      		<string>(?s)\d+$</string>
+			<key>Shell Script File</key>
+			<string>unixtime_2_date.sh</string>
+			<key>Title</key>
+			<string>ConvertUnixtime</string>
+		</dict>
+	</array>
+	<key>Credits</key>
+	<array>
+		<dict>
+			<key>Link</key>
+			<string>http://www.daniel_journey.com</string>
+			<key>Name</key>
+			<string>Daniel Hu</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<string>Convert unixt time to date(yyyy-mm-dd hh:mi:ss)</string>
+	<key>Extension Identifier</key>
+	<string>com.dearhwj.popclip.extension.convertunixtime</string>
+	<key>Extension Name</key>
+	<dict>
+		<key>en</key>
+		<string>ConvertUnixtime</string>
+		<key>zh-CN</key>
+		<string>Unix时间转换</string>
+	</dict>
+	<key>Version</key>
+	<integer>1</integer>
+</dict>
+</plist>
