@@ -12,30 +12,30 @@
 			<key>Regular Expression</key>
       		<string>(?s)\d+$</string>
 			<key>Shell Script File</key>
-			<string>unixtime_2_date.sh</string>
+			<string>kill_process.sh</string>
 			<key>Title</key>
-			<string>ConvertUnixtime</string>
+			<string>KillProcess</string>
 		</dict>
 	</array>
 	<key>Credits</key>
 	<array>
 		<dict>
 			<key>Link</key>
-			<string>http://www.daniel_journey.com</string>
+			<string>https://www.gitbook.com/book/dearhwj/itbook</string>
 			<key>Name</key>
 			<string>Daniel Hu</string>
 		</dict>
 	</array>
 	<key>Extension Description</key>
-	<string>Convert unixt time to date(yyyy-mm-dd hh:mi:ss)</string>
+	<string>Kill Process</string>
 	<key>Extension Identifier</key>
-	<string>com.dearhwj.popclip.extension.convertunixtime</string>
+	<string>com.dearhwj.popclip.extension.killprocess</string>
 	<key>Extension Name</key>
 	<dict>
 		<key>en</key>
-		<string>ConvertUnixtime</string>
+		<string>Kill Process</string>
 		<key>zh-CN</key>
-		<string>Unix时间转换</string>
+		<string>杀死进程</string>
 	</dict>
 	<key>Version</key>
 	<integer>1</integer>

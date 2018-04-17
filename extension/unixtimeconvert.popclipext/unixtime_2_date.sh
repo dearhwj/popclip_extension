@@ -1,1 +1,0 @@
-date -r  $POPCLIP_TEXT "+%Y-%m-%d  %H:%M:%S"
